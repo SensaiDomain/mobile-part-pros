@@ -5,7 +5,7 @@ import { Star, Quote } from "lucide-react";
 const Testimonials = () => {
   const testimonials = [
     {
-      name: "Sarah Johnson",
+      name: "Amit Sharma",
       role: "Repair Shop Owner",
       location: "Los Angeles, CA",
       rating: 5,
@@ -13,7 +13,7 @@ const Testimonials = () => {
       highlight: "Verified Purchase"
     },
     {
-      name: "Mike Chen",
+      name: "Rahul Verma",
       role: "DIY Enthusiast",
       location: "Austin, TX",
       rating: 5,
@@ -21,7 +21,7 @@ const Testimonials = () => {
       highlight: "Verified Purchase"
     },
     {
-      name: "Emma Rodriguez",
+      name: "Arjun Reddy",
       role: "Tech Professional",
       location: "Miami, FL",
       rating: 5,
@@ -29,7 +29,7 @@ const Testimonials = () => {
       highlight: "Verified Purchase"
     },
     {
-      name: "David Kim",
+      name: "Santosh Das",
       role: "Electronics Technician",
       location: "Seattle, WA",
       rating: 5,
@@ -37,7 +37,7 @@ const Testimonials = () => {
       highlight: "Verified Purchase"
     },
     {
-      name: "Lisa Thompson",
+      name: "Priya Mehta",
       role: "Small Business Owner",
       location: "Chicago, IL",
       rating: 5,
@@ -45,7 +45,7 @@ const Testimonials = () => {
       highlight: "Verified Purchase"
     },
     {
-      name: "Alex Parker",
+      name: "Meera Joshi",
       role: "College Student",
       location: "Boston, MA",
       rating: 5,
