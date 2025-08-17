@@ -51,6 +51,14 @@ const Testimonials = () => {
       rating: 5,
       text: "Broke my phone screen right before finals. Ordered the replacement and fixed it myself using their guide. Saved money and learned something new. Amazing experience!",
       highlight: "Verified Purchase"
+    },
+    {
+      name: "Amit Sharma",
+      role: "Mobile Technician",
+      location: "New Delhi, India",
+      rating: 5,
+      text: "Working as a mobile technician for 5 years, I can confidently say Mobile Part Pros provides the highest quality components. Their international shipping is reliable and parts always arrive in perfect condition.",
+      highlight: "Verified Purchase"
     }
   ];
 
